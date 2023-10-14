@@ -2,14 +2,6 @@
 
 🙋‍♂️ สวัสดีครับผม กฤติพงษ์ สีแก้วนิตย์ เป็นคนที่ชอบในการเขียนโปรแกรมและหลงใหลในการทำให้โปรแกรมของเราทำงานได้อย่างรวดเร็วและมีประสิทธิภาพที่เรียกว่า Optimization ปัจจุบันทำงานกับ [ZOBYETAEM](https://github.com/ZOBYETEAM) และ [Superfive studio](https://github.com/SuperfiveStudio) โดยเป็นสมาชิกหลักในการทำสคริปต์ของเซิร์ฟเวอร์เกม ส่วนใหญ่จะเขียน client และ server ที่ต้องใช้ logic จึงสนใจด้านการ Optimize เพื่อให้ผู้เล่นได้รับประสบการณ์ที่ดีในการเล่น
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=generatee&show_icons=true&locale=en&layout=compact" alt="generatee" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=generatee&show_icons=true&locale=en" alt="generatee" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=generatee&" alt="generatee" /></p>
 
 <!--
